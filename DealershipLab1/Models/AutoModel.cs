@@ -8,6 +8,7 @@ namespace DealershipLab1.Models
 {
     public class AutoModel
     {
+        public int ID { get; set; }
         public string Make { get; set; }
         public string Model { get; set; }
         public int year { get; set; }
