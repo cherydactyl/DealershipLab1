@@ -6,8 +6,23 @@ http://fdtier2assets.azurewebsites.net/content/Common/Images/Vehicles/VehicleBar
 2015 Ford Flex
 http://fdtier2assets.azurewebsites.net/content/Common/Images/Vehicles/VehicleBar/2015_Ford_Flex.png
 
+2015 Ford Transit
+http://fdtier2assets.azurewebsites.net/content/Common/Images/Vehicles/VehicleBar/2015_Ford_Transit.png
+
 2015 Ford Fiesta
 http://fdtier2assets.azurewebsites.net/content/Common/Images/Vehicles/VehicleBar/2015_Ford_Fiesta.png
 
 2015 Ford Mustang
 http://fdtier2assets.azurewebsites.net/content/Common/Images/Vehicles/VehicleBar/2015_Ford_Mustang.png
+
+2015 Ford C-MAX
+http://fdtier2assets.azurewebsites.net/content/Common/Images/Vehicles/VehicleBar/2015_Ford_C-MAX.png
+
+2015 Ford Taurus
+http://fdtier2assets.azurewebsites.net/content/Common/Images/Vehicles/VehicleBar/2015_Ford_Taurus.png
+
+2015 Ford Escape
+http://fdtier2assets.azurewebsites.net/content/Common/Images/Vehicles/VehicleBar/2015_Ford_Escape.png
+
+2015 Ford F-150
+http://fdtier2assets.azurewebsites.net/content/Common/Images/Vehicles/VehicleBar/2015_Ford_F-150.png
