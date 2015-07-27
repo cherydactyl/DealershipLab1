@@ -1,0 +1,13 @@
+
+2015 Ford Super Duty
+(pickup)
+http://fdtier2assets.azurewebsites.net/content/Common/Images/Vehicles/VehicleBar/2015_Ford_Super_Duty.png
+
+2015 Ford Flex
+http://fdtier2assets.azurewebsites.net/content/Common/Images/Vehicles/VehicleBar/2015_Ford_Flex.png
+
+2015 Ford Fiesta
+http://fdtier2assets.azurewebsites.net/content/Common/Images/Vehicles/VehicleBar/2015_Ford_Fiesta.png
+
+2015 Ford Mustang
+http://fdtier2assets.azurewebsites.net/content/Common/Images/Vehicles/VehicleBar/2015_Ford_Mustang.png
